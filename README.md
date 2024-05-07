@@ -8,15 +8,8 @@ This project implements a movie recommender system in Python, based on collabora
 
 To run the code on your machine:
 
-1. Clone the repository:
+1. Clone the repository:  **git clone https://github.com/yishuen/meetup-movie-recommender.git**
+2. Navigate to the project directory: **cd meetup-movie-recommender**
+3. Launch Jupyter Notebook: **jupyter notebook**
 
-```bash
-**git clone https://github.com/yishuen/meetup-movie-recommender.git**
-
-2. Navigate to the project directory:
-```bash
-**cd meetup-movie-recommender**
-
-3. Launch Jupyter Notebook
-**jupyter notebook**
 
